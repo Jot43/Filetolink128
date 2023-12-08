@@ -13,10 +13,10 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/Itz-JEOL/File-To-Link/",
+  "repository": "https://github.com/Jot43/Filetolink128//",
   "success_url": "/",
-  "logo": "https://graph.org/file/3421895411af26c3da183.jpg",
-  "website": "http://jeol.tech",
+  "logo": "https://graph.org/file/568202b8d137cd6e13adb.jpg",
+  "website": "http://telegram.me/nordbotz",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
