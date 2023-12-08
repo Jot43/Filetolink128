@@ -120,9 +120,9 @@ async def about_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/beta_botz"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/beta_support")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/jeol_tg"), InlineKeyboardButton("💠 DEVELOPER", url="https://github.com/Adarsh-Goel")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@itzjeol")]
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/NordBotz"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/beta_support")],
+                    [InlineKeyboardButton("OWNER", url="https://t.me/NordBotzOwner"), InlineKeyboardButton("💠 Empty ", url="https://")],
+                    [InlineKeyboardButton("💌 Empty 💌", url="https://")]
                 ]
             ),
             
